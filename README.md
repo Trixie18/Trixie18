@@ -1,4 +1,4 @@
-## Hi People 👋
+## Hi People! This profile is still under construction. 👋
 
 <!--
 **Trixie18/Trixie18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
