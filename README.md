@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jtocampo/">
-    <img src="https://img.shields.io/badge/LinkedIn-458588?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/johntrixieocampo">
     <img src="https://img.shields.io/badge/Kaggle-d79921?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
