@@ -27,4 +27,12 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enozYXcweXZiM2toeTdicXExNmZkbXZmMnYzMXU4bHFqcmZvdXF1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Yg4GUVgIUg3bf7W/giphy.gif" width="500" alt="Math guy GIF"/>
+</div>
+
+---
+
 ![Trixie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trixie18&show_icons=true&theme=radical)
