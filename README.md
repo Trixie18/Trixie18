@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+---
+
 ### 👨‍💻 About me 
 
 Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visualizations, sprinkle with analysis, and serve up actionable insights. My GitHub is where I whip up projects that turn raw data into awesome data-driven outputs!
