@@ -43,17 +43,18 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
 
 ### 📊 My Stats
 
-<a href="https://github.com/Trixie18/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Trixie18&rank_icon=github&theme=gruvbox" />
-</a>
-<a href="https://github.com/Trixie18/convoychat">
+<p href="https://github.com/Trixie18/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trixie18&layout=compact&langs_count=8&theme=gruvbox" />
-</a>
+</p>
 
+<p href="https://github.com/Trixie18/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Trixie18&rank_icon=github&theme=gruvbox" />
+</p>
 
 <p align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Trixie18&theme=gruvbox&hide_border=true" alt="Trixie18" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Trixie18&theme=gruvbo" alt="Trixie18" />
 </p>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Trixie18&show_icons=true&theme=gruvbox&hide_border=true" alt="Trixie's  stats" />
 </p>
