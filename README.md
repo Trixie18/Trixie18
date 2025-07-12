@@ -44,12 +44,17 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
 ### 📊 My Stats
 
 
-<p align="center">
+<p align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Trixie18&theme=gruvbox&hide_border=true" alt="Trixie18" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Trixie18&show_icons=true&theme=gruvbox&hide_border=true" alt="Trixie's  stats" />
 </p>
+<p align='right'>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trixie18&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+</p> 
+<!--
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trixie18&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="Trixie18" />
-</p>
+
+-->
