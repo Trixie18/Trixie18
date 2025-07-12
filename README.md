@@ -52,7 +52,7 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trixie18&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <p align="center">
