@@ -43,6 +43,13 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
 
 ### 📊 My Stats
 
+<a href="https://github.com/Trixie18/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Trixie18&theme=gruvbox" />
+</a>
+<a href="https://github.com/Trixie18/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trixie18&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
+</a>
+
 
 <p align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Trixie18&theme=gruvbox&hide_border=true" alt="Trixie18" />
@@ -51,8 +58,9 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
   <img src="https://github-readme-stats.vercel.app/api?username=Trixie18&show_icons=true&theme=gruvbox&hide_border=true" alt="Trixie's  stats" />
 </p>
 
+![Trixie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trixie18\&rank_icon=github&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trixie18&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Trixie Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trixie18&layout=donut-vertical&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <p align="center">
