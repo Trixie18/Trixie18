@@ -43,28 +43,27 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=b8bb26" alt="Python Badge"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <a href="https://pandas.pydata.org/">
     <img src="https://img.shields.io/badge/Pandas-282828?style=for-the-badge&logo=pandas&logoColor=fbf1c7" alt="Pandas Badge"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <a href="https://scikit-learn.org/">
     <img src="https://img.shields.io/badge/Scikit--Learn-282828?style=for-the-badge&logo=scikit-learn&logoColor=d79921" alt="Scikit-learn Badge"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <a href="https://www.tensorflow.org">
     <img src="https://img.shields.io/badge/TensorFlow-282828?style=for-the-badge&logo=tensorflow&logoColor=fe8019" alt="TensorFlow Badge"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <a href="https://pytorch.org/">
     <img src="https://img.shields.io/badge/PyTorch-282828?style=for-the-badge&logo=pytorch&logoColor=fb4934" alt="PyTorch Badge"/>
   </a>
+  <!--
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/OpenCV-282828?style=for-the-badge&logo=opencv&logoColor=b8bb26" alt="OpenCV Badge"/>
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSharp-282828?style=for-the-badge&logo=c&logoColor=83a598" alt="C# Badge"/>
-  </a>
+  -->
 </p>
 
 
