@@ -1,6 +1,6 @@
 ## Hi People! This profile is still under construction. 👋
 
-
+<!--
 **Trixie18/Trixie18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jtocampo/">
@@ -43,9 +43,9 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
 
 ### 🥜 Me in a nutshell
 
-‣ I studied Bachelor of Science in Mathematics from the Pamantasan ng Lungsod ng Maynila (University of the City of Manila) and graduated Magna Cum Laude.
-‣ I have an interest in data science and statistics. Additionally, my background in cryptography is proven by a published study of mine in the implementation of NTRUEncrypt to PhilSys data.
-‣ I do both mini and major projects during my free time, so check out my existing and upcoming projects both here in GitHub and in my DataCamp portfolio.
+‣ I studied Bachelor of Science in Mathematics from the Pamantasan ng Lungsod ng Maynila (University of the City of Manila) and graduated Magna Cum Laude. \n
+‣ I have an interest in data science and statistics. Additionally, my background in cryptography is proven by a published study of mine in the implementation of NTRUEncrypt to PhilSys data. \n
+‣ I do both mini and major projects during my free time, so check out my existing and upcoming projects both here in GitHub and in my DataCamp portfolio. \n
 
 ---
 
