@@ -36,7 +36,7 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enozYXcweXZiM2toeTdicXExNmZkbXZmMnYzMXU4bHFqcmZvdXF1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Yg4GUVgIUg3bf7W/giphy.gif" width="800" alt="Math guy GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enozYXcweXZiM2toeTdicXExNmZkbXZmMnYzMXU4bHFqcmZvdXF1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Yg4GUVgIUg3bf7W/giphy.gif" width="850" alt="Math guy GIF"/>
 </div>
 
 ---
