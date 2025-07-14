@@ -43,9 +43,9 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
 
 ### 🥜 Me in a nutshell
 
-‣ I studied Bachelor of Science in Mathematics from the Pamantasan ng Lungsod ng Maynila (University of the City of Manila) and graduated Magna Cum Laude. \n
-‣ I have an interest in data science and statistics. Additionally, my background in cryptography is proven by a published study of mine in the implementation of NTRUEncrypt to PhilSys data. \n
-‣ I do both mini and major projects during my free time, so check out my existing and upcoming projects both here in GitHub and in my DataCamp portfolio. \n
+‣ I studied Bachelor of Science in Mathematics from the Pamantasan ng Lungsod ng Maynila (University of the City of Manila) and graduated Magna Cum Laude. <br>
+‣ I have an interest in data science and statistics. Additionally, my background in cryptography is proven by a published study of mine in the implementation of NTRUEncrypt to PhilSys data. <br>
+‣ I do both mini and major projects during my free time, so check out my existing and upcoming projects both here in GitHub and in my DataCamp portfolio. <br>
 
 ---
 
