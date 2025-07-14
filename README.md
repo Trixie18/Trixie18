@@ -1,6 +1,6 @@
 ## Hi People! This profile is still under construction. 👋
 
-<!--
+
 **Trixie18/Trixie18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jtocampo/">
