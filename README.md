@@ -41,6 +41,14 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
 
 ---
 
+### 🥜 Me in a nutshell
+
+‣ I studied Bachelor of Science in Mathematics from the Pamantasan ng Lungsod ng Maynila (University of the City of Manila) and graduated Magna Cum Laude.
+‣ I have an interest in data science and statistics. Additionally, my background in cryptography is proven by a published study of mine in the implementation of NTRUEncrypt to PhilSys data.
+‣ I do both mini and major projects during my free time, so check out my existing and upcoming projects both here in GitHub and in my DataCamp portfolio.
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="center">
@@ -59,11 +67,6 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
   <a href="https://pytorch.org/">
     <img src="https://img.shields.io/badge/PyTorch-282828?style=for-the-badge&logo=pytorch&logoColor=fb4934" alt="PyTorch Badge"/>
   </a>
-  <!--
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OpenCV-282828?style=for-the-badge&logo=opencv&logoColor=b8bb26" alt="OpenCV Badge"/>
-  </a>
-  -->
 </p>
 
 
