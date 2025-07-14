@@ -74,6 +74,21 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
 
 ### 👾 My Projects
 
+<table>
+  <tr>
+    <td style="border: none;">
+      <a href="https://github.com/Trixie18/ckd-classification-using-rf-gb-svm-knn">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trixie18&repo=ckd-classification-using-rf-gb-svm-knn&theme=gruvbox&hide_border=true" alt="ckd-classification" />
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://github.com/Trixie18/power-demand-modeling">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trixie18&repo=power-demand-modeling&theme=gruvbox&hide_border=true" alt="power-demand-modeling" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 📊 My Stats
