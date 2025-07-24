@@ -101,7 +101,4 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Trixie18&rank_icon=github&theme=gruvbox" alt="trixie's stats"/>
 </p>
 
-<p align="left">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Trixie18&theme=gruvbox" alt="trixie's streaks" />
-</p>
 
