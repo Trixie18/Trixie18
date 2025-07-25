@@ -60,7 +60,7 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
     <img src="https://img.shields.io/badge/Pandas-282828?style=for-the-badge&logo=pandas&logoColor=fbf1c7" alt="Pandas Badge"/>
   </a>
   <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Pandas Badge"/>
+    <img src="https://img.shields.io/badge/numpy-282828?style=for-the-badge&logo=numpy&logoColor=white" alt="Pandas Badge"/>
   </a>
   <a href="https://scikit-learn.org/">
     <img src="https://img.shields.io/badge/Scikit--Learn-282828?style=for-the-badge&logo=scikit-learn&logoColor=d79921" alt="Scikit-learn Badge"/>
@@ -72,10 +72,10 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
     <img src="https://img.shields.io/badge/PyTorch-282828?style=for-the-badge&logo=pytorch&logoColor=fb4934" alt="PyTorch Badge"/>
   </a>
   <a href="https://keras.org/">
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras Badge"/>
+    <img src="https://img.shields.io/badge/Keras-282828?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras Badge"/>
   </a>
   <a href="https://scipy.org/">
-    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Badge"/>
+    <img src="https://img.shields.io/badge/SciPy-282828?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Badge"/>
   </a>
 </p>
 
