@@ -77,6 +77,12 @@ Hi there! I'm Trixie, a math and data science enthusiast who loves to cook visua
   <a href="https://scipy.org/">
     <img src="https://img.shields.io/badge/SciPy-282828?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Badge"/>
   </a>
+  <a href="https://plotly.org/">
+    <img src="https://img.shields.io/badge/Plotly-282828?style=for-the-badge&logo=plotly&logoColor=white" alt="SciPy Badge"/>
+  </a>
+  <a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-282828?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="SciPy Badge"/>
+  </a>
 </p>
 
 
