@@ -43,10 +43,11 @@ Hi there! I'm Trixie, a data scientist from Manila, Philippines who loves to coo
 
 ### 🥜 Me in a nutshell
 
-🌱 I am currently a Data Scientist for First Gen Corporation, the leading renewable energy company in the Philippines. <br>
+🌱 I am currently a Senior Manager - Applied Scientist for iSupport Worldwide and I lead workforce forecasting and demand analysis. <br>
+🌱 I am also taking my PhD in Data Science in the University of the Philippines, where I study data science and its applications to analytics systems and production efficiency.
+🌱 I am a former Data Scientist for First Gen Corporation, the leading renewable energy company in the Philippines. <br>
 🌱 I studied Bachelor of Science in Mathematics from the Pamantasan ng Lungsod ng Maynila (University of the City of Manila) and graduated Magna Cum Laude. <br>
 🌱 I have an interest in data science and statistics. Additionally, my background in cryptography is proven by a published study of mine in the implementation of NTRUEncrypt to PhilSys ID data. <br>
-🌱 I do both mini and major projects during my free time, so check out my existing and upcoming projects both here in GitHub and in my DataCamp portfolio. <br>
 
 ---
 
